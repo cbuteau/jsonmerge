@@ -7,3 +7,14 @@ The JSON file has a BASE that is merged...
 That JSON can have a BASE key that is merged...
 
 Last one in should be the winner for a property.
+
+## Examples
+
+```json
+{
+  "base": "otherjsonfilepath",
+  "props": {
+    "reload": true,
+    "retrycount": 3
+  }
+}

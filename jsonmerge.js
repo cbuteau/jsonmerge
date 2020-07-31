@@ -3,7 +3,7 @@
 
 
 var exports = {
-  load: function(file) {
+  combine: function(file) {
 
   }
 };
